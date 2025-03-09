@@ -11,6 +11,7 @@ This project aims to develop a **machine learning model** to accurately predict 
 
 ## 📂 Dataset
 - **Size**: 15,000 records
+- **Link**: https://www.kaggle.com/datasets/fmendes/fmendesdat263xdemos/data 
 - **Features**: Heart rate, body temperature, duration, age, weight, height, and activity type
 - **Preprocessing**:
   - Handling missing data with imputation
